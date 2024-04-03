@@ -1,0 +1,16 @@
+.search-bar {
+    margin: 20px;
+    display: flex;
+    justify-content: flex-end;
+    flex-basis: 300px;
+    
+}
+
+.search-values {
+    margin: 20px;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
